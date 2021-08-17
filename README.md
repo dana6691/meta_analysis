@@ -61,3 +61,13 @@ Use if there’s anything different, ages, locations or people who performed eac
 ## Analysis the source of between-studies variation
 - **Subgroup analysis**: it assumes that all studies within a subgroup share a common effect size.
 - **Meta-Regression**: it assumes that all studies which have the same values on the covariates share a common effect size.
+
+## Advanced Model
+- Subgroup Analysis
+- Meta-Regression Analysis
+- Multilevel Meta-Analysis
+- Meta-Analytics structural equation modeling
+- Network Meta-Analysis
+- Bayesian Meta-Analysis
+
+Reference: Harrer, M., Cuijpers, P., Furukawa, T.A., & Ebert, D.D. (2021). Doing Meta-Analysis with R: A Hands-On Guide. Boca Raton, FL and London: Chapmann & Hall/CRC Press. ISBN 978-0-367-61007-4.
